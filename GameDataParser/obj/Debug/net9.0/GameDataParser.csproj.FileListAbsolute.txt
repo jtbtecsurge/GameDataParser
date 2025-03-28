@@ -1,0 +1,15 @@
+D:\source\repos\GameDataParser\GameDataParser\bin\Debug\net9.0\GameDataParser.exe
+D:\source\repos\GameDataParser\GameDataParser\bin\Debug\net9.0\GameDataParser.deps.json
+D:\source\repos\GameDataParser\GameDataParser\bin\Debug\net9.0\GameDataParser.runtimeconfig.json
+D:\source\repos\GameDataParser\GameDataParser\bin\Debug\net9.0\GameDataParser.dll
+D:\source\repos\GameDataParser\GameDataParser\bin\Debug\net9.0\GameDataParser.pdb
+D:\source\repos\GameDataParser\GameDataParser\obj\Debug\net9.0\GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\GameDataParser\GameDataParser\obj\Debug\net9.0\GameDataParser.AssemblyInfoInputs.cache
+D:\source\repos\GameDataParser\GameDataParser\obj\Debug\net9.0\GameDataParser.AssemblyInfo.cs
+D:\source\repos\GameDataParser\GameDataParser\obj\Debug\net9.0\GameDataParser.csproj.CoreCompileInputs.cache
+D:\source\repos\GameDataParser\GameDataParser\obj\Debug\net9.0\GameDataParser.sourcelink.json
+D:\source\repos\GameDataParser\GameDataParser\obj\Debug\net9.0\GameDataParser.dll
+D:\source\repos\GameDataParser\GameDataParser\obj\Debug\net9.0\refint\GameDataParser.dll
+D:\source\repos\GameDataParser\GameDataParser\obj\Debug\net9.0\GameDataParser.pdb
+D:\source\repos\GameDataParser\GameDataParser\obj\Debug\net9.0\GameDataParser.genruntimeconfig.cache
+D:\source\repos\GameDataParser\GameDataParser\obj\Debug\net9.0\ref\GameDataParser.dll

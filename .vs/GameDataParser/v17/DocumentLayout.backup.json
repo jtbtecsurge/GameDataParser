@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B3735109-4196-4B92-93F4-398C2EAFB400}|GameDataParser\\GameDataParser.csproj|d:\\source\\repos\\gamedataparser\\gamedataparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3735109-4196-4B92-93F4-398C2EAFB400}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3735109-4196-4B92-93F4-398C2EAFB400}|GameDataParser\\GameDataParser.csproj|d:\\source\\repos\\gamedataparser\\gamedataparser\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3735109-4196-4B92-93F4-398C2EAFB400}|GameDataParser\\GameDataParser.csproj|solutionrelative:gamedataparser\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,23 @@
               "RelativeDocumentMoniker": "GameDataParser\\Program.cs",
               "ToolTip": "D:\\source\\repos\\GameDataParser\\GameDataParser\\Program.cs",
               "RelativeToolTip": "GameDataParser\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T05:40:15.834Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\source\\repos\\GameDataParser\\GameDataParser\\Logging\\Logger.cs",
+              "RelativeDocumentMoniker": "GameDataParser\\Logging\\Logger.cs",
+              "ToolTip": "D:\\source\\repos\\GameDataParser\\GameDataParser\\Logging\\Logger.cs",
+              "RelativeToolTip": "GameDataParser\\Logging\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:34:21.471Z",
               "EditorCaption": ""
             }
           ]
